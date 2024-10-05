@@ -2,9 +2,10 @@ Bash is the Unix command-line interface (CLI). Also called the terminal, the com
 
 🔧 Technologies & Tools
 
+<p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blue" height=21 width=80>
- <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges">
- <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height=22 width=110>
+<img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges">
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height=22 width=110>
 <br>
 <br>
 
